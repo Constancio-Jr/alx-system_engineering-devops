@@ -15,4 +15,4 @@
 14. Write a script that converts a number from base 10 to base 16. 
 15. 0x03-shell_variables_expansions 
 16. Write a script that prints every other line from the input, starting with the first line. 
-17.  
+17. i shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result
