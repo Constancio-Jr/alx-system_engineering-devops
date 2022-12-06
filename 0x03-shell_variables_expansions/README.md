@@ -13,3 +13,4 @@
 12. Create a script that prints all possible combinations of two letters, except oo. 
 13. Write a script that prints a number with two decimal places, followed by a new line.
 14. Write a script that converts a number from base 10 to base 16. 
+15. 0x03-shell_variables_expansions 
